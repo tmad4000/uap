@@ -9,7 +9,7 @@
 ## Local Setup
 
 Ensure celestrium is pulled in
-
+ 
 ```bash
 git submodule init
 git submodule update
